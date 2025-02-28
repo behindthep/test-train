@@ -1,0 +1,7 @@
+/tests/coverage/
+/vendor/
+logs
+*.swo
+*.swp
+*.cache
+build
